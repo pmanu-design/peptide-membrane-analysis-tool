@@ -1,0 +1,9 @@
+Install the required packages
+
+The README lists these minimum requirements:
+
+pip install MDAnalysis numpy scipy matplotlib tqdm
+
+On Ubuntu, if Tkinter is missing, install it with:
+
+sudo apt install python3-tk
